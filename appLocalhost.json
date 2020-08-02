@@ -1,0 +1,17 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "app-1595440969961-1914",
+        "url": "http://localhost:1234",
+        "uuid": "app-1595440969961-1914",
+        "saveWindowState": true,
+        "autoShow": true,
+	"defaultWidth": 900,
+	"defaultHeight": 900,
+	"enableAppLogging": true
+    },
+    "runtime": {
+        "version": "stable",
+	"arguments": "--electron-child-windows --v=1"
+    }
+}
