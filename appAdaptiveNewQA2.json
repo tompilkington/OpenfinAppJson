@@ -1,0 +1,17 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "app-1596175524235-3669",
+        "url": "https://adaptivenewqa2.interdealer.com",
+        "uuid": "app-1596175524235-3669",
+        "saveWindowState": true,
+        "autoShow": true,
+	"defaultWidth": 900,
+	"defaultHeight": 900,
+	"enableAppLogging": true
+    },
+    "runtime": {
+        "version": "stable",
+	"arguments": "--electron-child-windows --v=1"
+    }
+}
